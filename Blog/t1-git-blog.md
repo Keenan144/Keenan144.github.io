@@ -1,33 +1,50 @@
 t1-git-blog.md
 
 
-<!-- This template is in markdown, not html, so
-  it will not render beautifully when you copy and
-  paste it into your github.io site, but it will at
-  least be published. Next week you'll be creating a
-  blog template using HTML and CSS and you'll be able
-  to copy and paste the blog posts from week 1 in there
-  to make them pretty next week.
-
-  For now, please replace the title, subtitle (if desired),
-  and date with the text you would like. Markdown is pretty
-  simple, so you can just feel free to type. =) You'll want
-  to delete this chunk of a comment as well. -->
 
 
-Title
 
-Subtitle
+Phase-0-Unit-1, Week 1 Blog Post!!!
 
-Date
+Technical Blog
 
-Paragraph 1
+October 30, 2014
 
-Paragraph 2
+  So here it goes, my first ever blog. And with out spell check might I add. But here I am halfway through my first week of Phase 0 with Dev Bootcamp. I can honestly say, "WOW" I learned so much more material in this week than I have learned in a long time. Just 4 days ago, during the Google Hangout meeting for new students, I was feeling very "unprepared" and not at all confident that I can learn this stuff. I was under the impression that, because I am a total beginner, I will be way behind on the others in my cohert. However with a good work ethic and time managment, I have accomplished most all of my tasks early. I plan to have everything done on friday, this way I can review all my work. Plus with me being a begginner to most everything here, Twitter, GitHub, Coding, Commandline, and Blogs I want to make sure I have the extra space to check for errors. Yet the work has been very straight forward, and very easy to learn with a little focus. So if you are reading this and thinking "I don't know enough to do this", well you might be right. But this school will most definitly teach you what you need to know, and they will teach you in a hurry.
 
-Paragraph 3
+  What have I learned in just four days with DBC. Well in tech terms, I have learned how to navigate Commandline. I can push and pull from GitHub via my command line. I have learned about the differences and terms with the internet and world wide web (w3). I have created my own repository, and feel confident in sublime text editor 2. In non-tech terms, I have learned how to use the "terminal app" in my mac to make it do actual functional things. Things like create new folders, where ever I want them. Things like modify files and folders, or pull in files from the internet. I can send my own files to the internet using git (the commands) and GitHub (the hosting website). I have learned how to make useful edits and comments about those edits to share with my fellow coders. And most of all!!! I have learned how to learn! Not just sit down and memorize, no no. I have learned how to take away information from this schooling. And that my friends is gold.
 
-Add as many paragraphs as you want!!!
+  How important is learning git and GitHub for work as a future coder? It is very important! You see GitHub is a form of Version Control. So lets make an example. Lets say you and 4 of your best friends are designing a game type and map on Call of Duty. The most effective way to do this would be to divide up the tasks right? So Thomas is making the mission and objectives. David is making the environment. Jackson is making the guns and players. Zandra (my sisters name) is doing all the artwork and color for the game. And you are coding all the actions. This is a big project no doubt, and if you were to physically check on each on of your friends as the create everything. Well it would be too much extra time and headache. So you have everyone submit their work to a shared folder online (GitHub), and you can see who submitted what and when. This is also helpful so that Zandra can pull in Jacksons Guns and Players to add color to them, WITHOUT having to go onto Jacksons computer or email files over. She can go on to GitHub and pull in the files via her Commandline, or Terminal. And once she has added the artwork she sends back the completed files and starts on the next project. So lets say David gets stuck on his work, and asks Zandra to help him with the enemy base. Zandra can pull in his work and modify it right then and there. But what happenes if oops! Her enemy color choice is the same color as the good guys that david choose. Well with version control (GitHub) all is not lost. She can easily go back to the last version and start over from where the code went wrong. Now I know, color would be easy enough to change. But imagine you are coding the animation for a rocket launcher, and you make it fire a rocket. But oh no!!!! Your rocket isnt compatiable with the type of launcher that Zandra and Jackson made. And you ave already uploaded to GitHub. Again its no problem, you can just go back to your latest working version. So then all is taken care of, but the missions are really really really....... Great, and you want to see what Thomas did to make them so good. You can look at what he did via GitHub. 
+
+  So to summarize that, the version control keeps you from getting bugs and having to start from scratch (or accedently deleting something). GitHub tracks changes, and who made them. Plus when you submit a change you have to comment or "commit" the change, this way the other people in your group can see what all you did. And you should use GitHub because it does all of this, and it does it in a easy to use/ effective way. Plus it is free. And I like free :)
+
+
+  So thanks for reading my first blog, I am sorry for any spelling errors I missed. And if I get off track a little, but
+  hey I'm only human. 
+
+
+
+ Cheers
+
+ Keenan Sturtevant
+
+
+
+
+Feel free to contact me when ever!! (I prefer email)
+
+
+
+ keenansturtevant@gmail.com
+
+
+ (twitter) @Keenan144
+
+
+ www.facebook.com/keenan.sturtevant
+
+
+
 
 
 
