@@ -1,3 +1,72 @@
-body{
-	background-color: #FED100;
+.keenan{
+	color:blue; 
+	margin:50px;
+	font-size: 20px;
+}
+
+.img1{
+	float: top;
+	float: right;
+}
+
+.img2{
+	
+	float: left;
+}
+.phase{
+	margin-top:-50px;
+	font-style: italic;
+}
+
+
+.twitter{
+	
+}
+
+.social{
+	position: absolute;
+	margin-left: 20px;
+	margin: 5;
+}
+
+.table{
+	
+	margin-top: 15px;
+	margin-left: 160px;
+
+}
+
+.exampleblog{
+	margin: 60px;
+	text-align: left;
+
+}
+
+
+}
+/* unvisited link */
+a:link {
+	text-decoration: none;
+	color: black;
+}
+
+
+/* visited link */
+a:visited {
+	text-decoration: none;
+	color: grey;
+}
+
+
+/* mouse over link */
+a:hover {
+	text-decoration: underline;
+	color: green;
+}
+
+
+/* selected link */
+a:active {
+	text-decoration: underline;
+	color: #0000FF
 }
