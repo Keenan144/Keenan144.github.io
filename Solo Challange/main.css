@@ -4,6 +4,10 @@
 	font-size: 20px;
 }
 
+.bloghead{
+	color: navy;
+}
+
 .img1{
 	float: top;
 	float: right;
@@ -16,8 +20,14 @@
 .phase{
 	margin-top:-50px;
 	font-style: italic;
+	
 }
 
+.week01{
+	font-size: 18px;
+	color: navy;
+	border: 2px solid black;
+}
 
 .twitter{
 	
@@ -61,7 +71,7 @@ a:visited {
 /* mouse over link */
 a:hover {
 	text-decoration: underline;
-	color: green;
+	color: navy;
 }
 
 
