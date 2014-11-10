@@ -27,6 +27,9 @@
 	font-size: 18px;
 	color: navy;
 	border: 2px solid black;
+	border: 4px dashed black;
+	margin: 15px;
+	padding: 20px;
 }
 
 .twitter{
