@@ -1,3 +1,7 @@
+body{
+	background-color: beige;
+}
+
 .keenan{
 	color:blue; 
 	margin:50px;
@@ -14,8 +18,6 @@
 	float: right;
 
 }
-
-
 .cell_num{
 	color: white;
 }
@@ -46,10 +48,6 @@
 	
 }
 
-
-
-
-
 .social{
 	position: absolute;
 	margin-left: 20px;
@@ -64,6 +62,9 @@
 
 }
 
+
+
+/* Home Page Blog */
 .exampleblog{
 	text-indent: 30px;
 	margin: 60px;
@@ -81,28 +82,28 @@
 }
 
 
+
+
+/* .. LINKS ..*/
+
+
+
 }
 /* unvisited link */
 a:link {
 	text-decoration: none;
 	color: green;
 }
-
-
 /* visited link */
 a:visited {
 	text-decoration: none;
 	color: green;
 }
-
-
 /* mouse over link */
 a:hover {
 	text-decoration: underline;
 	color: red;
 }
-
-
 /* selected link */
 a:active {
 	text-decoration: underline;
