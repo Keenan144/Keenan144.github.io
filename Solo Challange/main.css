@@ -1,12 +1,29 @@
-body{
-	background-color: beige;
+
+
+
+
+
+
+
+body { 
+	background: url("IMG_9834.jpg");
+	background-size: 1200px 800px;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	margin-top: -2;
+	margin-left: -2;
+	margin-right: -2;
+	margin-bottom: -200;
 }
 
+
+
 .keenan{
-	color:blue; 
+	color:#23242E; 
 	margin:50px;
-	font-size: 20px;
-	text-shadow: 1px 1px grey;
+	font-size: 60px;
+	font-family: bold;
+	text-shadow: 1px 1px white;
 }
 
 .bloghead{
@@ -36,12 +53,24 @@ body{
 }
 
 .week01{
+
 	font-size: 18px;
-	color: navy;
-	border: 2px solid black;
-	border: 4px dashed black;
-	margin: 20px;
-	padding: 20px;
+	color: black;
+	overflow: scroll;
+	width: 500px;
+	height: 350px;
+	float: left;
+
+}
+
+
+.week02{
+	font-size: 18px;
+	color: black;
+	overflow: scroll;
+	width: 500px;
+	height: 350px;
+	float: right;
 }
 
 .twitter{
@@ -57,8 +86,9 @@ body{
 .table{
 	
 	margin-top: 15px;
-	margin-left: 160px;
-	float: top;
+	margin-left: 15px;
+	float: center;
+
 
 }
 
@@ -66,18 +96,22 @@ body{
 
 /* Home Page Blog */
 .exampleblog{
+	width: 500px;
+	height: 500px;
+	overflow: scroll;
+	
 	text-indent: 30px;
-	margin: 60px;
-	margin-right: 200px;
-	margin-left: 200px;
+	
+	margin-right: auto;
+	margin-left: auto;
 	text-align: left;
-	padding-left: 20px;
-	padding-right: 20px;
-	font-size: 20px;
+	padding-left: 2px;
+	padding-right: 2px;
+	font-size: 18px;
 	font-style: italic;
-	background-color: beige;
-	border: 2px solid brown;
-
+	color: black;
+	background-color: none;
+	
 
 }
 
@@ -92,17 +126,17 @@ body{
 /* unvisited link */
 a:link {
 	text-decoration: none;
-	color: green;
+	color: black;
 }
 /* visited link */
 a:visited {
 	text-decoration: none;
-	color: green;
+	color: grey;
 }
 /* mouse over link */
 a:hover {
 	text-decoration: underline;
-	color: red;
+	color: navy;
 }
 /* selected link */
 a:active {
