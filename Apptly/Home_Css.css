@@ -19,8 +19,24 @@ body{
 	background: #D8F2FF;
 }
 .mainbodytext{
+	font-size: 20px;
+	width: 300px;
+	height: 350px;
+	margin-left: 100px;
 	margin-top: 100px;
-	margin-left: 50px;
+	font-family: sans-serif;
+	overflow: scroll;
+	float: left; 
+}
+.subbodytext{
+	font-size: 20px;
+	width: 300px;
+	height: 350px;
+	margin-right: 100px;
+	margin-top: 100px;
+	font-family: sans-serif;
+	overflow: scroll;
+	float: right; 
 }
 
 
