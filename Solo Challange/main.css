@@ -1,12 +1,6 @@
 
-
-
-
-
-
-
-body { 
-	background: img src = "http://cdn.wonderfulengineering.com/wp-content/uploads/2014/07/universe-backgrounds1.jpg";
+body { /* Body of web site */
+	background: url("universe-backgrounds1.jpg");
 	background-size: 1200px 800px;
 	background-repeat: no-repeat;
 	background-attachment: fixed;
@@ -17,40 +11,42 @@ body {
 }
 
 
-
-.keenan{
+.keenan{/* DKinteractive*/
 	color:#23242E; 
 	margin:50px;
 	font-size: 60px;
 	font-family: bold;
 	text-shadow: 1px 1px white;
+
 }
+
+
+
+.phase{ /*Keenan Sturtevant <br> David Morgan*/
+	margin-top:-50px;
+	font-style: italic;
+	color: grey;
+	text-shadow: 2px 2px black;
+}
+
 
 .bloghead{
 	color: white;
 }
 
-.img1{
-	float: top;
-	float: right;
 
-}
+
 .cell_num{
 	color: white;
 }
+
+
 .christmas1{
 	float: top;
 	float: right;
 }
-.img2{
-	
-	float: left;
-}
-.phase{
-	margin-top:-50px;
-	font-style: italic;
-	
-}
+
+
 
 .week01{
 
@@ -83,13 +79,19 @@ body {
 	margin: 5;
 }
 
-.table{
+.table{ /*Nav Bar*/
 	
 	margin-top: 15px;
 	margin-left: 15px;
 	float: center;
 
 
+}
+
+.nasa_link{
+	position: fixed;
+	top: 400px;
+	left: 100px;
 }
 
 
@@ -99,9 +101,7 @@ body {
 	width: 500px;
 	height: 500px;
 	overflow: scroll;
-	
 	text-indent: 30px;
-	
 	margin-right: auto;
 	margin-left: auto;
 	text-align: left;
@@ -109,11 +109,17 @@ body {
 	padding-right: 2px;
 	font-size: 18px;
 	font-style: italic;
-	color: black;
+	color: white;
+	text-shadow: 1px 1px grey;
 	background-color: none;
 	
 
 }
+
+
+
+
+
 
 
 
@@ -126,7 +132,8 @@ body {
 /* unvisited link */
 a:link {
 	text-decoration: none;
-	color: black;
+	color: grey;
+	text-shadow: 2px 2px white;
 }
 /* visited link */
 a:visited {
