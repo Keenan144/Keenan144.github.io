@@ -1,0 +1,140 @@
+
+.Keenans_Cheat-Sheet{
+	margin-top: -10px;
+	margin-right: -10px;
+	margin-left: -10px;
+	background-color: #A97D5D;
+	padding-top: 10px;
+    padding-right: 50px;
+    padding-bottom: 1px;
+    padding-left: 50px;
+    font-size: 25px;
+	font-weight: bold;
+	color: black;
+	text-shadow: 1px 1px white;
+	font-family: fantasy;
+}
+
+
+.leftcolumn {
+width: 200px;
+float: left;
+margin-right: 4px;
+margin-left: -88px;
+background-color: #9C9F84;
+padding-left: 100px;
+padding-bottom: 720px;
+}
+
+.leftcolumn1 {
+width: 200px;
+float: left;
+margin-right: 4px;
+margin-left: -88px;
+background-color: #9C9F84;
+padding-left: 100px;
+padding-bottom: 950px;
+}
+.leftcolumn3 {
+width: 200px;
+float: left;
+margin-right: 4px;
+margin-left: -88px;
+background-color: #9C9F84;
+padding-left: 100px;
+padding-bottom: 2900px;
+}
+span.left_h2 {
+	color: #8AC007;
+}
+span.center_h1 {
+	color: maroon;
+	text-shadow: 1px 1px grey;
+	margin-right: 215px;
+
+}
+
+.leftcolumn a:link, .leftcolumn a:visited, .leftcolumn a:hover, .leftcolumn a:active {
+display: block;
+font-size: 20px;
+padding-bottom: 4px;
+background-color: ;
+color: #555555;
+color: #404040;
+text-decoration: none;
+}
+
+.leftcolumn1 a:link, .leftcolumn1 a:visited, .leftcolumn1 a:hover, .leftcolumn1 a:active {
+display: block;
+font-size: 20px;
+padding-bottom: 4px;
+background-color: ;
+color: #555555;
+color: #404040;
+text-decoration: none;
+}
+
+.leftcolumn3 a:link, .leftcolumn3 a:visited, .leftcolumn3 a:hover, .leftcolumn3 a:active {
+display: block;
+font-size: 20px;
+padding-bottom: 4px;
+background-color: ;
+color: #555555;
+color: #404040;
+text-decoration: none;
+}
+
+.rightcolumn a:link, .rightcolumn a:visited, .rightcolumn a:hover, .rightcolumn a:active {
+display: block;
+font-size: 20px;
+padding-bottom: 4px;
+background-color: ;
+color: #555555;
+color: #404040;
+text-decoration: none;
+}
+
+.rightcolumn {
+width: 200px;
+float: right;
+margin-top: -530px;
+margin-left: 10px;
+margin-right: -88px;
+background-color: #5C755E;
+padding-right: 100px;
+padding-left: 25px;
+padding-bottom: 579px;
+font-family: fantasy;
+font-weight: bold;
+}
+
+span.right_h2 {
+	color: navy;
+	font-family: sans-serif;
+}
+
+span.right_h2_sub {
+	color: black;
+	font-family: sans-serif;
+}
+
+span.vocab {
+	font-weight: bold;
+	background-color: #5C755E;
+	font-size: 25px;
+
+}
+
+.ruby_info {
+	text-indent: 20px;
+	margin-left: 260px;
+	margin-right: 250px;
+	font-size: 18px;
+
+}
+
+.basics {
+	font-family: serif;
+	font-size: 22px;
+	margin-left: 250px;
+}
