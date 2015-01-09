@@ -1,29 +1,31 @@
 
-.Keenans_Cheat-Sheet{
-	margin-top: -10px;
-	margin-right: -10px;
-	margin-left: -10px;
-	background-color: #A97D5D;
-	padding-top: 10px;
-    padding-right: 50px;
-    padding-bottom: 1px;
-    padding-left: 50px;
-    font-size: 25px;
-	font-weight: bold;
-	color: black;
-	text-shadow: 1px 1px white;
-	font-family: fantasy;
+body {
+    background: url("background_2.jpg"), url("blue_city.jpg");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-position: fixed;
 }
+
+
+.top_title{
+font-size: 25px;
+font-family: fantasy;
+margin: -10px;
+border: auto;
+padding: 10px 10px 10px 10px;
+font-weight: bold;
+color: white;
+}
+
 
 
 .leftcolumn {
 width: 200px;
 float: left;
-margin-right: 4px;
-margin-left: -88px;
-background-color: #9C9F84;
-padding-left: 100px;
-padding-bottom: 720px;
+position: absolute;
+top: 169px;
+padding-left: 10px;
+padding-bottom: 500px;
 }
 
 .leftcolumn1 {
@@ -50,7 +52,7 @@ span.left_h2 {
 span.center_h1 {
 	color: maroon;
 	text-shadow: 1px 1px grey;
-	margin-right: 215px;
+	margin-right:;
 
 }
 
@@ -97,10 +99,10 @@ text-decoration: none;
 .rightcolumn {
 width: 200px;
 float: right;
-margin-top: -530px;
+margin-top: -970px;
 margin-left: 10px;
 margin-right: -88px;
-background-color: #5C755E;
+
 padding-right: 100px;
 padding-left: 25px;
 padding-bottom: 579px;
@@ -127,9 +129,10 @@ span.vocab {
 
 .ruby_info {
 	text-indent: 20px;
-	margin-left: 260px;
+	margin-left: 230px;
 	margin-right: 250px;
 	font-size: 18px;
+	color: white;
 
 }
 

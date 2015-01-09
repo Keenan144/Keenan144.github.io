@@ -15,6 +15,7 @@
 }
 /* unvisited link */
 a:link {
+	transition: all .5s linear 0;
 	text-decoration: none;
 	color: grey;
 	text-shadow: 2px 2px white;
