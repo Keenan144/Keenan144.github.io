@@ -1,10 +1,48 @@
+.bloghead{
+	font-size: 25px;
+font-family: fantasy;
+margin: -10px;
+border: auto;
+padding: 10px 10px 10px 10px;
+font-weight: bold;
+color: white;
+float: left;
+padding-left: 40px;
+}
 
+.return_home{
+	padding-left: 500px;
+	padding-top: 50px;
+}
+.week01{
+	color: white;
+	font-family: fantasy;
+	font-size: 20px; 
+}
+.week02{
+	color: yellow;
+	font-family: fantasy;
+	font-size: 20px;
+}
+span.center_h1 {
+	color: maroon;
+	text-shadow: 1px 1px grey;
+	margin-right:;}
 
+.ruby_info{
+	text-indent: 20px;
+	margin-left: 230px;
+	margin-right: 250px;
+	font-size: 18px;
+	color: black;
+}
 
-
-
-
-
+.dropbar{
+	position: absolute;
+	right: 70px;
+	display: block;
+	float: right;
+	margin: 0 10px 0 0;
 
 
 
@@ -15,15 +53,13 @@
 }
 /* unvisited link */
 a:link {
-	transition: all .5s linear 0;
 	text-decoration: none;
-	color: grey;
-	text-shadow: 2px 2px white;
+	color: white;
 }
 /* visited link */
 a:visited {
 	text-decoration: none;
-	color: grey;
+	color: white;
 }
 /* mouse over link */
 a:hover {

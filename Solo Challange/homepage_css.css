@@ -1,12 +1,40 @@
 
 body {
-    background: url("background_2.jpg"), url("blue_city.jpg");
-    background-size: 100% 100%;
+    background: url("imgs/background_2.jpg"), url("imgs/blue_city.jpg");
+    background-size: 1200px 1200px;
     background-repeat: no-repeat;
     background-position: fixed;
 }
 
+.dropbar{
+	position: absolute;
+	right: 170px;
+	display: block;
+	float: right;
+	margin: 0 10px 0 0;
+}
 
+.dropbar1{
+	position: relative;
+	left: 0;
+	display: block;
+	float: left;
+	margin: 0 10px 0 0;
+}
+.dropbar2{
+	position: relative;
+	left: 0;
+	display: block;
+	float: left;
+	margin: 0 10px 0 0;
+}
+.dropbar3{
+	position: ;
+	left: 0;
+	display: block;
+	float: left;
+	margin: 0 10px 0 0;
+}
 .top_title{
 font-size: 25px;
 font-family: fantasy;
@@ -15,17 +43,19 @@ border: auto;
 padding: 10px 10px 10px 10px;
 font-weight: bold;
 color: white;
+float: left;
+padding-left: 40px;
 }
 
 
 
 .leftcolumn {
 width: 200px;
-float: left;
-position: absolute;
-top: 169px;
-padding-left: 10px;
-padding-bottom: 500px;
+float: right;
+position: ;
+top: ;
+padding-left: ;
+padding-bottom: ;
 }
 
 .leftcolumn1 {
@@ -87,7 +117,7 @@ text-decoration: none;
 }
 
 .rightcolumn a:link, .rightcolumn a:visited, .rightcolumn a:hover, .rightcolumn a:active {
-display: block;
+display: inline-block;
 font-size: 20px;
 padding-bottom: 4px;
 background-color: ;
@@ -96,18 +126,39 @@ color: #404040;
 text-decoration: none;
 }
 
-.rightcolumn {
-width: 200px;
-float: right;
-margin-top: -970px;
-margin-left: 10px;
-margin-right: -88px;
 
-padding-right: 100px;
-padding-left: 25px;
-padding-bottom: 579px;
-font-family: fantasy;
-font-weight: bold;
+.interest_bar{
+	position: relative;
+	right: 600px;
+	padding-top: 1000px;
+	display: inline-block;
+	float: right;
+	margin: 0 10px 0 0;
+}
+
+.interest_bar1{
+	position: relative;
+	right: 400px;
+	padding-top: 1000px;
+	display: inline-block;
+	float: right;
+	
+}
+.interest_bar2{
+	position: relative;
+	right: 20px;
+	padding-top: 1000px;
+	display: inline-block;
+	float: right;
+	
+}
+.interest_bar3{
+	position: relative;
+	right: 60px;
+	padding-top: 1000px;
+	display: block;
+	float: right;
+	
 }
 
 span.right_h2 {
